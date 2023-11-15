@@ -1,5 +1,5 @@
 ## ansible-config-mgt
 ---
 
-This repository is for ansible project.
+This repository is for ansible project
 
